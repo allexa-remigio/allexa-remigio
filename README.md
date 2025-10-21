@@ -1,13 +1,12 @@
-## Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> It's Allexa Remigio.
+## Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> It's Allexa Remigio.
 
 ---
 
 A Healthcare Database Administrator and Data Analyst for a Good Medicine Home-Based Care, partnering with Scripps Hospital Group. Looking to expand into the biotechnology sector with my background in bioinformatics.
 
-Professional experience with Epic (Electronic Medical Records), Excel VBA, and ExcelScript. Academic experience with the following languages:
+Professional experience with Epic (Electronic Medical Records), Excel VBA, and ExcelScript. Academic experience with the following languages and programs:
 
----
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50" height="50"/>
 
 <!--
 **allexa-remigio/allexa-remigio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
