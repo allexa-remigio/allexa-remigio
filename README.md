@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> It's Allexa Remigio.
+
+---
+
+A Healthcare Database Administrator and Data Analyst for a Good Medicine Home-Based Care, partnering with Scripps Hospital Group. Looking to expand into the biotechnology sector with my background in bioinformatics.
+
+Professional experience with Epic (Electronic Medical Records), Excel VBA, and ExcelScript. Academic experience with the following languages:
+
+---
+
 
 <!--
 **allexa-remigio/allexa-remigio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
