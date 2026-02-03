@@ -1,5 +1,3 @@
-<!-- Paste directly into your GitHub README.md (GitHub supports HTML in Markdown) -->
-
 <h2>👋 Hi, I’m Allexa</h2>
 
 <p>
